@@ -1,0 +1,21 @@
+{
+    "name": "bausch/yii2-nimo-tracker",
+    "description": "For WIP and time tracking carrier trays in the incubator.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","nimo"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jairus Martin",
+            "email": "jairusmartin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bausch\\": ""
+        }
+    }
+}
