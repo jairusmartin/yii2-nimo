@@ -1,6 +1,6 @@
 <?php
 
-namespace bausch;
+namespace bausch\nimo;
 
 /**
  * This is just an example.

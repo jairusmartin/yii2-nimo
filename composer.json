@@ -1,5 +1,5 @@
 {
-    "name": "bausch/yii2-nimo-tracker",
+    "name": "bausch/yii2-nimo",
     "description": "For WIP and time tracking carrier trays in the incubator.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","nimo"],
